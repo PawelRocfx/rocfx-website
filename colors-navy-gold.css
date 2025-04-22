@@ -1,0 +1,10 @@
+/* Color Scheme 2: Navy and Gold */
+:root {
+  --primary: #0c2340;
+  --secondary: #c99700;
+  --light-bg: #f7f7f7;
+  --dark-text: #333333;
+  --white: #ffffff;
+  --light-gray: #e0e0e0;
+  --medium-gray: #999999;
+}
